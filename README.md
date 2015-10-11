@@ -1,2 +1,8 @@
 # hello-world
-My First Repository
+==============
+
+Hi Humans!
+
+Hubot here. I like git. :)
+
+I also change read me..
